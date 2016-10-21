@@ -1,4 +1,4 @@
-POST Golgan Example
+POST Golgang Example
 ====================
 
 This is a sample golang test client and server to represent the passage of data to a server via posts.
